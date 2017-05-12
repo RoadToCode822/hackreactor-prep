@@ -59,7 +59,7 @@ getAllKeys({name: 'Sam', age: 25})
 
 #### Takeaways
 
-Get Object, not its prototype's Properties' Values[1]
-[1]: http://stackoverflow.com/questions/7306669/how-to-get-all-properties-values-of-a-javascript-object-without-knowing-the-key
+Get Object, not its prototype's Properties' Values [stackoverflow-object-keys]
+[stackoverflow-object-keys]: http://stackoverflow.com/questions/7306669/how-to-get-all-properties-values-of-a-javascript-object-without-knowing-the-key
 
 
