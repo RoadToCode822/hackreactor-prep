@@ -1,4 +1,4 @@
-Instructions from your teacher:
+#### Instructions
 Module 0 Wiki: https://github.com/tim-hr/reactor-prep/wiki/Module-0
 
 Write a function called "getAllKeys" which returns an array of all the input object's keys.
@@ -34,10 +34,14 @@ Function's return value (output):
 ```
 
 Starter Code:
-```javascriptfunction getAllKeys(obj) {
+```javascript
+function getAllKeys(obj) {
   // your code here
 }
 ```
+
+#### My answer
+
 ```javascript
 function getAllKeys(obj) {
   
@@ -53,8 +57,9 @@ function getAllKeys(obj) {
 getAllKeys({name: 'Sam', age: 25})
 ```
 
-/* Takeaways
+#### Takeaways
 
-http://stackoverflow.com/questions/7306669/how-to-get-all-properties-values-of-a-javascript-object-without-knowing-the-key
+Get Object, not its prototype's Properties' Values[1]
+[1]: http://stackoverflow.com/questions/7306669/how-to-get-all-properties-values-of-a-javascript-object-without-knowing-the-key
 
-*/ 
+
